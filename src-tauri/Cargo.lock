@@ -561,6 +561,7 @@ dependencies = [
  "tauri",
  "tauri-build",
  "tauri-plugin-upload",
+ "winapi",
 ]
 
 [[package]]
