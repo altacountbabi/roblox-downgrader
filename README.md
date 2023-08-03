@@ -1,7 +1,14 @@
-# Tauri + Svelte + Typescript
+# Roblox downgrader
 
-This template should help get you started developing with Tauri, Svelte and TypeScript in Vite.
+A simple tool to downgrade roblox
 
-## Recommended IDE Setup
+Features:
+1. Downgrading?
+2. Fetches latest data from the web
+3. Its pretty fast
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+
+## Requirements to modify
+1. Rust
+2. NodeJS and NPM
+3. A brain
