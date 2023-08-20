@@ -9,6 +9,6 @@ export type LatestData = {
 }
 
 export const fetchLatestData = async (): Promise<LatestData> => {
-    const latestData = 'https://raw.githubusercontent.com/altacountbabi/RBX_Downgrader/rust/latest%20data.json'
+    const latestData = 'https://raw.githubusercontent.com/altacountbabi/roblox-downgrader/main/latest%20data.json'
     return (await axios.get(latestData)).data
 }
